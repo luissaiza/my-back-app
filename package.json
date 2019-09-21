@@ -1,0 +1,20 @@
+{
+  "name": "my-back-app",
+  "version": "1.0.0",
+  "description": "Esta es nuestra app para el backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luissaiza/my-back-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luissaiza/my-back-app/issues"
+  },
+  "homepage": "https://github.com/luissaiza/my-back-app#readme"
+}
